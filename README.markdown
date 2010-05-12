@@ -1,3 +1,11 @@
+ANNOUNCEMENT
+============
+
+The development has moved on the [official Panmind repository](http://github.com/Panmind/erlang-ruby-marshal).
+
+Follow either [Panmind](http://github.com/Panmind) or watch the repository to catch up with developments :-).
+
+
 Purpose of this fork
 ====================
 
